@@ -1,0 +1,6 @@
+
+# Application settings
+
+appTitle = Ability Hunt
+windowWidth = 800
+windowHeight = 600

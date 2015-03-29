@@ -1,0 +1,18 @@
+
+================== TODO =====================
+
+//FEATURES
+* Examine Ability (learn more about object)
+
+//BUGS & FIXES & REFACTORING
+* make non-instant description of inventory better
+* add all entities and use polymorphic update 
+
+* boss room open with password (code gotten from elliot) - DONE
+* handle dialogue without options (empty options) - DONE
+* Move assignment and constructor for Item class	- DONE
+* Move assignment and constructor for Command class - DONE
+* brief() includes notable things, like attacking monsters - DONE
+* Pick up a dropped item - DONE
+* TALK to elliot - DONE
+* Remaining rooms	- DONE

@@ -1,0 +1,49 @@
+=====================================================================
+==================								=====================
+================     ADVENTURE GAME - CPROG14     ===================
+==================								=====================
+=====================================================================
+== Authors: Philip Sköld, Martin Runelöv						   ==
+== Course:  DD2387, Program System Construction using C++		   ==
+=====================================================================
+
+
+Name: 			
+		GameMechanicHunt RPG
+
+Story:	
+		The game story supposed to make fun of the RPG genre by (1) exaggerating typical RPG scenarios and (2) include meta-references
+		to the gameplay and game itself.
+
+Core Gameplay: 	
+		In AbilityHunt (GMH) the player is put in a world where core game mechanic abilities are treated as items. 
+		The Mechanics are bought, sold and traded, can be lost, found, broken and repaired. 
+
+		The game with an unknown character giving you the ability to see the world through more than 1px, he leaves quickly but
+		accidently drops an ability to move left. You can now <Move Left>. The gameplay henceforth is about navigating the world, 
+		maybe cutting down some bushes, being hunted by some mobs that steal abilities and, eventually, reaching a point where you 
+		can achieve the ability to complete the game and see the credits!
+
+Mechanics = Items:
+		=> The currency that is used is <Gold>, you start with some small amount!
+		=> What can you do with mechanics-items?
+			* You can buy mechanics (vendor)
+			* You can sell mechanics (vendor)
+			* you can trade mechanics (vendor)
+			* you can drop mechanics (intentional, or mobs steal them)
+			* you can pick up mechanics
+
+		=> you can <lock> items so they become permanent
+
+Core (itemized) Mechanics:
+		* Graphics: screen size (early game),
+					colours,
+					shaders,
+					camera-follow (early game)
+
+		* Movement: up, down, left, right
+					run, jump
+		* Stand Up
+		* Inspect
+		* Pause/Resume
+		* Dialogue: Talk 
